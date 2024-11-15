@@ -1,0 +1,19 @@
+{
+  "name": "js-backend-adventure",
+  "version": "1.0.0",
+  "description": "this is backend series",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "sheikh",
+    "rizwan"
+  ],
+  "author": "sheikhRizwan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "type": "module"
+}
